@@ -1,2 +1,25 @@
 {
+  "header": {
+    "prefix": "⛅",
+    "title": "tailwindcss-profile sample",
+    "menu": {
+      "left": [
+        {
+          "title": "Example",
+          "url": "https://example.com",
+          "target": "_blank"
+        },{
+          "title": "Twitter",
+          "url": "https://twitter.com"
+        }
+      ],
+      "right":[
+        {
+          "title": "GitHub",
+          "url": "https://github.com/Slime-hatena/tailwindcss-profile",
+          "target": "_blank"
+        }
+      ]
+    }
+  }
 }
