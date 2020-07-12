@@ -1,9 +1,6 @@
 <template>
   <div>
     <Header />
-    <pre>
-      {{ $store.getters['setting/get'].name }}
-    </pre>
   </div>
 </template>
 <script>
