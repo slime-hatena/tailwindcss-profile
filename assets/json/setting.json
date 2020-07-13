@@ -1,4 +1,10 @@
 {
+  "theme": {
+    "color": {
+        "background": "gray-200",
+        "primary": "teal-500"
+    }
+  },
   "header": {
     "prefix": "⛅",
     "title": "tailwindcss-profile sample",

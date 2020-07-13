@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="min-h-screen" :class="'bg-' + $store.getters['setting/get'].theme.color.background">
     <Header />
   </div>
 </template>
